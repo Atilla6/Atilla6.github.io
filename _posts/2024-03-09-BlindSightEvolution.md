@@ -4,7 +4,7 @@ title:  "Blindsight Consciousness"
 ---
 
 # How special is consciousness? 
-
+![Blindsight Aliens](https://github.com/Atilla6/Atilla6.github.io/blob/02f62594e052c02a5be36afe6dff8eb3d3c6f46a/assets/images/blindSight/Blindsight_Aliens.png)
 
 **My thoughts on consciousness in Blindsight by Peter Watts**
 
