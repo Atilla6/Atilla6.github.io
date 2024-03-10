@@ -4,8 +4,7 @@ title:  "Blindsight Consciousness"
 ---
 
 # How special is consciousness? 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/Blindsight_Aliens.png)
-
+![Unsplash]({{ site.url }}{{ site.baseurl }}/assets/images/blindSight/Blindsight_Aliens.png)
 
 **My thoughts on consciousness in Blindsight by Peter Watts**
 
