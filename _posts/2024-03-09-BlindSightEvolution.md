@@ -5,6 +5,7 @@ title:  "Blindsight Consciousness"
 
 # How special is consciousness? 
 
+
 **My thoughts on consciousness in Blindsight by Peter Watts**
 
 When we think about aliens, we typically don't think about microbes or plants.
